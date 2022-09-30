@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "606562908643",
+    "project_id": "restio-69b5f",
+    "storage_bucket": "restio-69b5f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:606562908643:android:d56bcb3c71f625675448d6",
+        "android_client_info": {
+          "package_name": "com.restio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "606562908643-tuplnha4ng7nhrtg3j635e7cvbitckir.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.restio",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "606562908643-i09qcihgseve1migclcd3bjoukhgd3t5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAK6HsVcSg6p0CEev-QrBo6UDOvlMHIud8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "606562908643-i09qcihgseve1migclcd3bjoukhgd3t5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
